@@ -1,8 +1,8 @@
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcr2120)](https://solved.ac/kcr2120)
+
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fff3db,100:f5ff6b&height=120&text=안녕하세요%20!%20채령입니다%20٩(%20*˙0˙*)۶&animation=fadeIn&fontColor=404040&fontSize=32" />
     </div>
-    
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcr2120)](https://solved.ac/kcr2120)
     
 <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
