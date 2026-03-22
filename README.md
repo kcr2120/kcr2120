@@ -19,6 +19,15 @@
 </div>
 
 <div align="center">
+  <h2>📚 Study Notes</h2>
+  <a href="https://www.notion.so/Java-2ca7b931b9fe80759ce0dc851d20200c?source=copy_link">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white" alt="Notion">
+  </a>
+  <br>
+  <b>Java 기록 노트</b>
+</div>
+
+<div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎓 Certificates</h2>
   <div style="font-size: 16px; font-weight: 500; color: #282d33; line-height: 1.8; text-align: center;">
     📝 TOEIC SPEAKING 160 (Advanced Low) – 2025.01<br>
