@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
   </div>
 </div>
-
+<!--
 <div align="center">
   <h2>📚 Study Notes</h2>
   <a href="https://www.notion.so/Java-2ca7b931b9fe80759ce0dc851d20200c?source=copy_link">
@@ -26,6 +26,7 @@
   <br>
   <b>Java 기록 노트</b>
 </div>
+--!>
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🎓 Certificates</h2>
