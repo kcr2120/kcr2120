@@ -7,7 +7,7 @@
   <div style="margin: 0 auto; text-align: center;">
     <img src="https://img.shields.io/badge/Java-008000?style=flat&logo=Java&logoColor=white">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+    <!--<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">--!>
     <img src="https://img.shields.io/badge/MySQL-8977AD?style=flat&logo=MySQL&logoColor=white"><br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
